@@ -1,0 +1,6 @@
+main{
+    min-width: 64rem;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}

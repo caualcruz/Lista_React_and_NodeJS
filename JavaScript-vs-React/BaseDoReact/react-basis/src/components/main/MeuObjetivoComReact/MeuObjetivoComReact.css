@@ -1,0 +1,9 @@
+.goal-card {
+    margin: 0 auto !important;
+
+}
+
+.goal-card ul {
+    text-align: left;
+    list-style: none !important;
+}
