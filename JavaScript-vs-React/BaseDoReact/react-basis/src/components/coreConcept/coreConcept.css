@@ -1,16 +1,17 @@
 
-#core-concepts .concepts{
+.core-concepts .concept{
   background-color: #6136AA;
   padding: 1rem;
   margin: 5px;
+  width: 15rem;
 }
 
-#core-concepts .concepts li{
+.core-concepts .concept li{
   text-align: left !important;
   font-size: small !important;;
 }
 
-#core-concepts .concepts img{
+.core-concepts .concept img{
   width: 5rem;
   height: 5rem;
   margin: 1rem 0;
